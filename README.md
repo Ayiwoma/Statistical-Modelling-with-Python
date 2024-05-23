@@ -1,5 +1,8 @@
 # Final-Project-Statistical-Modelling-with-Python
 
+This project seeks to investigate and employ statistical modeling techniques using Python for thorough data analysis. By harnessing the capabilities of Python's diverse ecosystem of libraries including NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn, the aim is to explore different statistical concepts and methodologies to extract actionable insights from the data.
+
+
 ## Project/Goals
 (fill in your description and goals here)
 
