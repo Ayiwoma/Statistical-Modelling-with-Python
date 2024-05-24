@@ -1,0 +1,17 @@
+CityBikes
+
+Send a request to CityBikes for the city of your choice.
+
+import requests
+import pandas as pd
+
+url = 'https://api.citybik.es/v2/networks'
+response = requests.get(url)
+data = response.json()
+
+london_stations = []
+
+# Find the London network
+for network in data['networks']:
+    if network['location']['city'] == 'London' and network['location']['country'] == 'GB':
+        london_network = network
