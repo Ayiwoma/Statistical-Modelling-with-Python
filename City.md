@@ -21,6 +21,7 @@ for network in data['networks']:
 ```
 
 
+Parse through the response to get the details you want for the bike stations in that city (latitude, longitude, number of bikes).
 
 ```python
 network_id = london_network['id']
@@ -31,6 +32,7 @@ network_data = network_response.json()
 bike_stations = network_data['network']['stations']
 ```
 
+Put your parsed results into a DataFrame.
 
 ```python
 # Create DataFrame from the parsed results
