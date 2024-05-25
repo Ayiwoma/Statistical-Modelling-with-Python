@@ -65,7 +65,7 @@ Develop statistical models or machine learning algorithms to analyze the integra
 ## Results
 
 
-The analysis of API coverage in my chosen area of London Uk revealed varying degrees of data accessibility and quality across different sources. While yelp and citibike APIs provided comprehensive and well-structured data, Foursquare exhibited limitations such as sparse coverage or inconsistent data formats. Despite these challenges, I managed to glean valuable insights from the available data, highlighting trends and patterns that contribute to a deeper understanding of the domain.
+The analysis of API coverage in my chosen area of London Uk revealed varying degrees of data accessibility and quality across different sources. Yelp API, Citibike APIs Foursquare API provided comprehensive and well-structured data. This enabled me to glean valuable insights from the available data, highlighting trends and patterns that contribute to a deeper understanding of the domain.
 
 Through rigorous data cleaning and transformation processes, I was able to mitigate the impact of inconsistencies and missing values, ensuring the integrity of my analysis. The subsequent application of statistical models facilitated the identification of significant trends and relationships within the data, enabling actionable insights to emerge.
 
@@ -74,7 +74,7 @@ Overall, while API coverage may vary in quality and comprehensiveness, The model
 
 ## Challenges 
 
-The analysis of API coverage in London, UK, encountered challenges due to varying data accessibility and quality across sources. While Yelp and Citibike APIs offered comprehensive data, Foursquare posed issues with sparse coverage and inconsistent formats. Rigorous data cleaning was essential to mitigate inconsistencies, though extracting meaningful insights required additional effort due to data limitations. 
+The analysis of API coverage in London, UK, encountered challenges due to varying data accessibility and quality across sources. Rigorous data cleaning was essential to mitigate inconsistencies, though extracting meaningful insights required additional effort due to data limitations. 
 
 Despite challenges, statistical models facilitated trend identification. These hurdles underscore the importance of robust data processing techniques for informed decision-making.
 
