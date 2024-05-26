@@ -67,8 +67,6 @@ Develop statistical models or machine learning algorithms to analyze the integra
 
 The analysis of API coverage in my chosen area of London Uk revealed varying degrees of data accessibility and quality across different sources. Yelp API, Citibike APIs Foursquare API provided comprehensive and well-structured data. This enabled me to glean valuable insights from the available data, highlighting trends and patterns that contribute to a deeper understanding of the domain.
 
-Through rigorous data cleaning and transformation processes, I was able to mitigate the impact of inconsistencies and missing values, ensuring the integrity of my analysis. The subsequent application of statistical models facilitated the identification of significant trends and relationships within the data, enabling actionable insights to emerge.
-
 Overall, while API coverage may vary in quality and comprehensiveness, The model demonstrated its capability to extract meaningful insights regardless of these challenges. This underscores the importance of robust data processing and analysis techniques in unlocking the potential of available data sources, ultimately empowering informed decision-making in our domain.
 
 
